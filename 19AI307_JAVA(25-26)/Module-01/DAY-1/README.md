@@ -17,10 +17,10 @@ Applies both post-increment and pre-increment.
 
 Shows the difference in output when using a++ and ++a.
 
-Input Format
+Input Format :
 One integer (the magic number)
 
-Output Format
+Output Format :
 Print the results in this format:
 
 Original number = <value>
@@ -93,4 +93,5 @@ public class java
 
 ## RESULT:
 Thus,the program is executed successfully.
+
 
