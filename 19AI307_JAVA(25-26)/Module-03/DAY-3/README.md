@@ -20,6 +20,7 @@ To write a Java program that defines an abstract class GameScore with an abstrac
 
 
 ## ALGORITHM :
+```
 1.	Start the program.
 2.	Import the necessary package 'java.util'
 3.	Create an abstract class GameScore with an abstract method finalScore().
@@ -36,6 +37,7 @@ To write a Java program that defines an abstract class GameScore with an abstrac
      ->If first line = 2 → create PuzzleGame object.
 7. Call the finalScore() method and print the result.
 8. End the program.
+```
    
 
 
@@ -120,5 +122,6 @@ public class GameScoreCalculator {
 
 ## RESULT:
 Thus,the Program is executed Successfully.
+
 
 
