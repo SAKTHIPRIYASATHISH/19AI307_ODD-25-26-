@@ -1,6 +1,7 @@
 # Ex.No:3(C) ABSTRACTION
 
 ## QUESTION:
+```
 Description:
 Create abstract class GameScore with method finalScore().
 Subclasses:
@@ -11,6 +12,7 @@ First line: 1 or 2
 Second line: base, level (or attempts)
 Output Format:
 Final score (int)
+```
 
 
 ## AIM:
@@ -118,4 +120,5 @@ public class GameScoreCalculator {
 
 ## RESULT:
 Thus,the Program is executed Successfully.
+
 
